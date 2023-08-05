@@ -1,0 +1,16 @@
+{
+    "name": "arbi/phpzip",
+    "description": "Zip and unzip Files",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "arbi",
+            "email": "msahelarbi@gmail.com"
+        }
+    ],
+    "require": {}
+}
